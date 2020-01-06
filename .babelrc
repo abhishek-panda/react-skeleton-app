@@ -1,3 +1,4 @@
 {
+  "plugins": ["lodash", "./babel-plugin-react-ui-components.js"],
   "presets" : ["env", "react"]
 }
